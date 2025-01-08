@@ -6,7 +6,7 @@ export const metadata = {
 
 
 const projects = [
-  { name: 'Project 1', description: 'A cool project', link: '#' },
+  { name: 'Malicios Email Detector', description: 'Cool AI project to detect scam mails', link: 'https://malicious-email-detector.vercel.app/' },
   { name: 'Project 2', description: 'Another cool project', link: '#' },
 ];
 
