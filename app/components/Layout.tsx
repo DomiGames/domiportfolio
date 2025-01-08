@@ -23,16 +23,16 @@ export default function Layout({ children }: LayoutProps) {
       <main className="container mx-auto p-6">{children}</main>
       <footer className="p-6 border-t border-vampire-gray text-center">
         <div className="flex justify-center space-x-4">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
+          <a href="https://github.com/DomiGames" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
             GitHub
           </a>
-          <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
+          <a href="https://twitter.com/domic137" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
             Twitter
           </a>
-          <a href="https://play.google.com/store/apps/dev?id=yourid" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
+          <a href="https://play.google.com/store/apps/details?id=com.blackballz&hl=en" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
             PlayStore
           </a>
-          <a href="https://yourusername.itch.io" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
+          <a href="https://domi-games.itch.io" target="_blank" rel="noopener noreferrer" className="hover:text-vampire-blood">
             itch.io
           </a>
         </div>

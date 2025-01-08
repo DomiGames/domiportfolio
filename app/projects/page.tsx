@@ -1,5 +1,10 @@
 import Layout from '../components/Layout';
 
+export const metadata = {
+  title: 'Projects - My Portfolio',
+};
+
+
 const projects = [
   { name: 'Project 1', description: 'A cool project', link: '#' },
   { name: 'Project 2', description: 'Another cool project', link: '#' },

@@ -1,5 +1,9 @@
 import Layout from '../components/Layout';
 
+export const metadata = {
+  title: 'Blog - My Portfolio',
+};
+
 export default function Blog() {
   return (
     <Layout>
