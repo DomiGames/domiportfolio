@@ -11,7 +11,7 @@ export default function Layout({ children }: LayoutProps) {
       <nav className="p-6 border-b border-vampire-gray">
         <div className="container mx-auto flex justify-between items-center">
           <Link href="/" className="text-2xl font-bold text-vampire-blood">
-            My Portfolio
+            Domi Portfolio
           </Link>
           <div className="flex space-x-4">
             <Link href="/" className="hover:text-vampire-blood">Home</Link>
