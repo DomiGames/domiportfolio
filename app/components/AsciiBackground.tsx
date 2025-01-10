@@ -84,7 +84,7 @@ const AsciiBackground: React.FC<{ imageUrl: string; outputWidth?: number }> = ({
         color: 'gray',
         fontFamily: 'monospace',
         whiteSpace: 'pre',
-        fontSize: '10px',
+        fontSize: '12px',
         lineHeight: '8px',
         zIndex: -1, // Ensure it stays in the background
       }}
